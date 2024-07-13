@@ -1,1 +1,12 @@
 git add 
+git commit -m "first commit"
+git push -u origin <branch_name>
+git push origin <branch_name>
+git branch
+git checkout <branch_name>
+git pull (origin same as push)
+
+afdhjbahfjb
+conflicts 
+text1 --> raju * -> main
+text1 --> tushar * -> main
